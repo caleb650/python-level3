@@ -1,5 +1,5 @@
-print("Harish computer mart")
-print("Gandhi nagar,puducherry")
+print("caleb computer mart")
+print("Nehru street ,puducherry")
 print("-----------------")
 print("Bill Receipt")
 print("------------")
@@ -22,3 +22,4 @@ else:
 print("GST(Good&Service tax):",GST)
 amt=total+GST
 print("Amount to be paid:",amt)
+
